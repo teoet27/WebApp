@@ -27,7 +27,7 @@ hide_streamlit_style = """
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
 
-st.title("Hi! I am Streamlit Web App")
+st.title("Hi! I am Streamlit Web App 2")
 st.subheader("Hi! I am your Subheader")
 st.header("I am Header")
 st.text("Hi I am text function and programmers use me inplace of paragraph tag")
